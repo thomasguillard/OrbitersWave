@@ -9,7 +9,7 @@ from math import pi
 
 
 orbitersSpeed = pi/10
-orbitersSize=4
+orbitersSize=12
 orbitersRadius=10
 orbitersRows=10
 orbitersCols=15
